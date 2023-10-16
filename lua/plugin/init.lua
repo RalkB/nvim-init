@@ -1,0 +1,5 @@
+require("plugin.telescope")
+require("plugin.treesitter")
+require("plugin.harpoon")
+require("plugin.fugitive")
+require("plugin.lsp")
